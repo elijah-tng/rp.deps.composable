@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+!codeStyles
+!.name
+workspace.xml
+/misc.xml
+/modules.xml
+/rp.deps.composable.iml
+/vcs.xml
